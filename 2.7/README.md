@@ -1,0 +1,1 @@
+In my defense I've implemented it over 10 years ago, it was put together mostly by gluing together code snippets, and I'd made it a lot nicer today! ;) But it works, as is, enjoy.
